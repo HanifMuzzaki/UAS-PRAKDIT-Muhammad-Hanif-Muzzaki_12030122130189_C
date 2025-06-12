@@ -29,7 +29,7 @@
 ### Jurnal Koreksi
 <img width="1440" alt="Screenshot 2025-06-12 at 09 33 27" src="https://github.com/user-attachments/assets/ad2e7474-9591-407e-86a7-4f5d9bc3033c" />
 
-### Jurnal Koreksi dari Arbutus
+### Jurnal Koreksi berdasarkan Pengujian di Arbutus
 <img width="870" alt="Screenshot 2025-06-12 at 09 32 20" src="https://github.com/user-attachments/assets/9fec972c-6516-400f-b479-4341c4bc2819" />
 
 ### Penilaian Materialitas Akhir
